@@ -1,0 +1,10 @@
+{
+    "monitoringtoken": "",
+    "claimertoken": "",
+    "webhookid": "",
+    "webhooktoken": "",
+    "channels": "all",
+    "openLinks": true,
+    "showMessages": true,
+    "linkReset": 10
+}
