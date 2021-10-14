@@ -2,7 +2,9 @@
 Discord Toolbox by dragonlordslayer69
 
 config.json explanations:
+
 monitoringtoken: the discord token of the account of which you want to monitor with
+
 claimertoken: the discord token of the account that will join invites
 webhookid: the id of your discord webhook ie. for the webhook   https://discord.com/api/webhooks/776296627812040292/JGrd0godqZrIs4OZf0uXdajrY2bpJzbXrdzd78TXYJdTlFcqMNaybwbnfloO73TGQYBU the webhook id would be 776296627812040292
 webhooktoken: the token for your webhook, ie JGrd0godqZrIs4OZf0uXdajrY2bpJzbXrdzd78TXYJdTlFcqMNaybwbnfloO73TGQYBU from the last example
