@@ -1,7 +1,7 @@
 # discord-toolbox
-Discord Toolbox by dragonlordslayer69
+Discord Toolbox by Jensen
 
-config.json explanations:
+`config.json explanations:`
 
 monitoringtoken: the discord token of the account of which you want to monitor with
 
